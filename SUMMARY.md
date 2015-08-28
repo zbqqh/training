@@ -1,5 +1,7 @@
 * [HTML](html/README.md)
-    - [forward](html/forward.MD)
+ - [forward](html/forward.md)
+ - [history](html/history.md)
+ - [outline](html/outline.md)
 * [CSS](css/README.md)
 * [JavaScript](javascript/README.md)
 * [BootStrap](bootstrap/README.md)
