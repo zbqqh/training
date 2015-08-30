@@ -1,2 +1,0 @@
-# training
-Java training lecture.
